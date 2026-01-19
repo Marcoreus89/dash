@@ -63,10 +63,6 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 http://192.168.123.1:23234/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[非官方]
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[非官方]
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
@@ -309,3 +305,4 @@ http://192.168.123.1:23234/rtp/239.3.1.82:4120
 http://192.168.123.1:23234/rtp/239.3.1.70:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",魅力时尚
 http://192.168.123.1:23234/rtp/239.3.1.196:9012
+
